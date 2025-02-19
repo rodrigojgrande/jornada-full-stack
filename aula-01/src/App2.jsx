@@ -33,3 +33,9 @@ export default App2;
 // Box Model
 
 // ClassName => Mesma coisa que class em HTML só que em JSX
+
+// Tag vazia "<>" em React se chama Fragment ou Fragmento
+
+// 100svh
+
+// Nomes compostos são separados por -
